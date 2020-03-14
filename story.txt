@@ -1,3 +1,5 @@
 þThis is a story about a robot who wanted to realize his potential as a professional
-chef. People constantly told him: "You are a robot! You can't even taste anything!" But the robot knew he was destined for greatness because he wasn't just an ordinary robot. He was created by Gordon Ramsay, one of the greatest chefs in the world. Robot did not need to know how to taste when he could apply perfect precision that he had learned when implementing a binary search tree for his programming class. ^X
+chef. People constantly told him: "You are a robot! You can't even taste anything!" But the robot knew he was destined for greatness because he wasn't just an ordinary robot. He was created by Gordon Ramsay, one of the greatest chefs in the world. Robot did not need to know how to taste when he could apply perfect precision that he had learned when implementing a binary search tree for his programming class. 
+
+For a binary search tree, robot still do not know how to test. However, robot can know the taste of the food via some secret method. Therefore, people try to find the way how robot can know the taste of the food without eating food. Scientists use as many method as they can to figure out the problems. Finally, they use the implementation of red black tree to find the solution why robot know the taste without eating ^X
 
