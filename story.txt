@@ -3,3 +3,6 @@ chef. People constantly told him: "You are a robot! You can't even taste anythin
 
 For a binary search tree, robot still do not know how to test. However, robot can know the taste of the food via some secret method. Therefore, people try to find the way how robot can know the taste of the food without eating food. Scientists use as many method as they can to figure out the problems. Finally, they use the implementation of red black tree to find the solution why robot know the taste without eating.
 
+The glory that was red black tree, with the choice of only two branches at a time, it created and recorded the great complexity of human perceptions. One may think it was just emulating the tasting, however after some more stunning features that were unleashed by red black tree displayed, the course of history changed hitherto.  
+
+
